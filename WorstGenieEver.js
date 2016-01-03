@@ -26,4 +26,4 @@ function checkWish() {
 checkWish();
 
 
-alert("Okay, " + name + ".... I have the unfortunate task of informing you that you will never achieve the following wish: " + "'" + wish + "'");
+alert("Okay, " + name + ".... I have the unfortunate task of informing you that I am unable to grant you the following wish: " + "'" + wish + "'");
